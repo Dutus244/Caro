@@ -1,0 +1,14 @@
+﻿  Checkwin.cpp
+D:\OneDrive\Máy tính\20127001_20127013_20127370_20127576_2012760\Caro\Caro\Checkwin.h(5,1): warning C4005: 'Max_List_Menu': macro redefinition
+D:\OneDrive\Máy tính\20127001_20127013_20127370_20127576_2012760\Caro\Caro\Menu.h(10): message : see previous definition of 'Max_List_Menu'
+  Console.cpp
+  Dichuyen.cpp
+D:\OneDrive\Máy tính\20127001_20127013_20127370_20127576_2012760\Caro\Caro\Menu.h(10,1): warning C4005: 'Max_List_Menu': macro redefinition
+D:\OneDrive\Máy tính\20127001_20127013_20127370_20127576_2012760\Caro\Caro\Checkwin.h(5): message : see previous definition of 'Max_List_Menu'
+  Dungchung.cpp
+  Menu.cpp
+  Save.cpp
+  Thongso.cpp
+  Ve.cpp
+  Generating Code...
+  Caro.vcxproj -> D:\OneDrive\Máy tính\20127001_20127013_20127370_20127576_2012760\Caro\Debug\Caro.exe
